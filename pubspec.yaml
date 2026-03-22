@@ -1,0 +1,41 @@
+name: travia
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.10.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_riverpod:
+  go_router:
+  dio:
+  intl:
+  get:
+  shared_preferences:
+  path_provider:
+  image_picker:
+  permission_handler:
+  flutter_svg:
+
+  # Optional Firebase
+  firebase_core:
+  firebase_auth:
+  cloud_firestore:
+  firebase_storage:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints:
+
+  build_runner:
+  json_serializable:
+  freezed:
+  freezed_annotation:
+
+flutter:
+  uses-material-design: true
