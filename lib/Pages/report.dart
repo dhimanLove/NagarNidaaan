@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'bottom_nav_bar.dart';
+import '../bottomnavbar.dart';
 
 // ─────────────────────────────────────────────────────────────────────────────
 //  REPORT SCREEN  — matches screenshot exactly
